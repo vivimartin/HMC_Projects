@@ -27,6 +27,13 @@
     width: 100%;
 }
 
+.quote{
+    font-family: 'Playfair Display SC', serif;
+    font-size: 25px;
+    color: #d6bb1e;
+
+}
+
 /* spacing on all sections */
 #about, #drawings, #contact {
     margin-top: 4rem;
