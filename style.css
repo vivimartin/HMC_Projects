@@ -8,9 +8,11 @@
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;
+    font-family: "Oi", serif;
 }
 .hero_desc {
     font-size: 2rem;
+    font-family: "Montserrat", sans-serif;
 }
 .hero-text {
     text-align: center;
@@ -18,7 +20,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    color: rgb(232, 200, 37);
 }
 /* about section image css */
 .imageAboutPage {
@@ -30,19 +32,19 @@
     cursor: pointer;
 }
 .fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
-    color: #008000;
+    color: #f3e48c;
 }
 .fab {
-    color: #000000;
+    color: #090c37;
 }
 /* footer styling */
 #footer {
-    background-color: #808080;
+    background-color: #d7cfb9;
     text-align: center;
 }
 
 /* spacing on all sections */
-#about, #services, #portfolio, #contact {
+#about, #drawings, #contact {
     margin-top: 4rem;
     padding-top: 4rem;
 }
