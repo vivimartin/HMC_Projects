@@ -14,7 +14,7 @@ p {
     font-family: "Montserrat", sans-serif;
 }
 body{
-    background-color: #d1cab3;
+    background-color: #e0dccc;
 }
 .bgimage {
     height:100vh;
@@ -29,9 +29,9 @@ body{
 .navbar{
     background-color: #dccc6fb1;
 }
-.navbar-brand, h1{
+.title{
     color: #cea212;
-    font-size: 25px;
+    font-size: 30px;
     font-family: "Oi", serif;
     font-weight: lighter;
 }
