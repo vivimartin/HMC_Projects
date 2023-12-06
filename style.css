@@ -1,4 +1,8 @@
 /* hero background image */
+body{
+    background-color: #e0dccc;
+}
+
 .card-text{
     font-size: 15px;
 }
@@ -157,7 +161,7 @@ main {
 main h2{
     font-size: 4rem;
     font-family: "Oi", serif;
-    color: #cea212;
+    color: #d6bb1e;
 }
 main p{
     font-family: "Montserrat", sans-serif;
