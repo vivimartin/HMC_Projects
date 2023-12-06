@@ -1,4 +1,21 @@
 /* hero background image */
+.card-text{
+    font-size: 20px;
+}
+.card-title{
+    font-size: 30px;
+    font-family: "Playfari Display SC";
+    font-weight: bold;
+    color:#d6bb1e;
+    font-style: normal;
+}
+
+p {
+    font-family: "Montserrat", sans-serif;
+}
+.body{
+    background-color: #d1cab3;
+}
 .bgimage {
     height:100vh;
     background: url('banner.png');
