@@ -13,7 +13,7 @@
 p {
     font-family: "Montserrat", sans-serif;
 }
-.body{
+body{
     background-color: #d1cab3;
 }
 .bgimage {
@@ -22,16 +22,16 @@ p {
     background-size:cover;
     position:relative;
 }
-.nav-item{
-    color:#070838;
+.nav-link:link{
+    color:#070838; 
     font-family: "Montserrat", sans-serif;
 }
 .navbar{
     background-color: #dccc6fb1;
 }
-.navbar-brand{
+.navbar-brand, h1{
     color: #cea212;
-    font-size: 100px;
+    font-size: 25px;
     font-family: "Oi", serif;
     font-weight: lighter;
 }
