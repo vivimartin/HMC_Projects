@@ -15,18 +15,23 @@ p {
 }
 #drawings{
     background-color: #e0dccc;
+    margin-top: 0;
 }
 #about{
     background-color: #e0dccc;
+    margin-top: 0;
 }
 #certificates{
     background-color: #e0dccc;
+    margin-top: 0;
 }
 #activities{
     background-color: #e0dccc;
+    margin-top: 0;
 }
 #contacts{
     background-color: #e0dccc;
+    margin-top: 0;
 }
 .bgimage {
     height:100vh;
